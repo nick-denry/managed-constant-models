@@ -34,8 +34,8 @@ Usage
 
     namespace app\models;
 
-    use nickdenry\managedConstants\ManagedConstantInterface;
-    use nickdenry\managedConstants\ManagedConstantTrait;
+    use nickdenry\managedConstants\interfaces\ManagedConstantInterface;
+    use nickdenry\managedConstants\traits\ManagedConstantTrait;
 
     /**
     * TaskStatus constant model
