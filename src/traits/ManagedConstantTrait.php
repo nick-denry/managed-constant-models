@@ -1,6 +1,6 @@
 <?php
 
-namespace nickdenry\managedConstatns\interfaces;
+namespace nickdenry\managedConstants\interfaces;
 
 interface ManagedConstantInterface
 {
