@@ -4,7 +4,7 @@
  * Trait to get managed constants data.
  */
 
-namespace nickdenry\managedConstatns\traits;
+namespace nickdenry\managedConstants\traits;
 
 trait ManagedConstantTrait
 {
