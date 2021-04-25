@@ -1,6 +1,6 @@
 {
     "name": "nick-denry/managed-constant-models",
-    "description": "Allow to declare constants with named attributes via single class model",
+    "description": "Allow to declare constants with named attributes via separate class model",
     "keywords": ["library", "models", "php", "constants", "label", "organize", "yii2"],
     "type": "library",
     "license": "MIT",
