@@ -102,7 +102,7 @@ Usage
     ```php
     <?php
 
-    $constValue = 0;
+    $constValue = Task::getStatuses()::ACTIVE; //$constValue = 0;
 
     Task::getStatuses()::ACTIVE; // ACTIVE constant;
     Task::getStatuses()::DONE; // DONE constant;
