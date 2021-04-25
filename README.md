@@ -104,6 +104,8 @@ Usage
 
     $constValue = 0;
 
+    Task::getStatuses()::ACTIVE; // ACTIVE constant;
+    Task::getStatuses()::DONE; // DONE constant;
     Task::getStatuses()::constants(); // Returns array ['ACTIVE' => 0, 'DONE' => 1]
     Task::getStatuses()::values(); // Returns array [0, 1]
     Task::getStatuses()::listAttributes($constValue); // Returns array ['class' => 'task-active', 'label' => 'Активна']
