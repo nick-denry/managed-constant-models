@@ -1,0 +1,26 @@
+{
+    "name": "nick-denry/managed-constant-models",
+    "description": "Allow to declare constants and attributes with a single class model",
+    "keywords": ["library", "models", "php", "constants", "label", "organize", "yii2"],
+    "type": "library",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/nick-denry/managed-constant-models/issues",
+        "source": "https://github.com/nick-denry/managed-constant-models"
+    },
+    "authors": [
+        {
+            "name": "Nick Denry",
+            "email": "nick.denry@gmail.com",
+            "homepage": "https://github.com/nick-denry/managed-constant-models"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+    },
+    "autoload": {
+        "psr-4": {
+            "nickdenry\\managedConstatns\\": "src"
+        }
+    }
+}
