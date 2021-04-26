@@ -114,7 +114,7 @@ Usage
     Task::getStatuses()::getList(); 
     // Returns [
     //    ['id' => 0, 'class' => 'task-active', 'label' => 'Активна', ]
-    //    ['id' => 0, 'class' => 'task-done', 'label' => 'Завершена', ],
+    //    ['id' => 1, 'class' => 'task-done', 'label' => 'Завершена', ],
     // ]
 
     ```
