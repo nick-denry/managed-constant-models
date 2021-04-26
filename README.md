@@ -88,7 +88,7 @@ Usage
         */
         public static function getStatuses()
         {
-            return new TaskStatus();
+            return new TaskStatus(); //TaskStatus()::class;
         }
         ...
 
