@@ -80,7 +80,7 @@ Usage
     * @property int|null $created_at
     * @property int|null $updated_at
     */
-    class Task extends BaseTimestampedModel extends \yii\db\ActiveRecord
+    class Task extends \yii\db\ActiveRecord
     {
         ...
         /**
