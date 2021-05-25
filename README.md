@@ -1,4 +1,4 @@
-<h1 align="center">Managed constant models</h1>
+<h1 align="center">PHP Managed constant models</h1>
 Allow to declare constants with named attributes via standalone class model
 
 [![Latest Stable Version](https://poser.pugx.org/nick-denry/managed-constant-models/version)](https://packagist.org/packages/nick-denry/managed-constant-models) [![Total Downloads](https://poser.pugx.org/nick-denry/managed-constant-models/downloads)](https://packagist.org/packages/nick-denry/managed-constant-models) [![Latest Unstable Version](https://poser.pugx.org/nick-denry/managed-constant-models/v/unstable)](//packagist.org/packages/nick-denry/managed-constant-models) [![License](https://poser.pugx.org/nick-denry/managed-constant-models/license)](https://packagist.org/packages/nick-denry/managed-constant-models)
