@@ -18,7 +18,7 @@ php composer.phar require --prefer-dist nick-denry/managed-constant-models
 or add
 
 ```
-"nick-denry/managed-constant-models": "^0.1.0"
+"nick-denry/managed-constant-models": "^0.1.1"
 ```
 
 to the require section of your `composer.json` file.
@@ -111,7 +111,7 @@ Usage
     Task::getStatuses()::listAttributes($constValue); // Returns array ['class' => 'task-active', 'label' => 'Активна']
     Task::getStatuses()::attribute($constValue, 'class'); // Returns 'task-active'
 
-    Task::getStatuses()::getList(); 
+    Task::getStatuses()::getList();
     // Returns [
     //    ['id' => 0, 'class' => 'task-active', 'label' => 'Активна', ]
     //    ['id' => 1, 'class' => 'task-done', 'label' => 'Завершена', ],
